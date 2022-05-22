@@ -245,20 +245,20 @@
         "SCAN_QR_FROM_IMAGE_R1": "Please authorize the app to access Storage or Photo Library.",
         "SCAN_QR_FROM_IMAGE_R2": "Please ensure that the background of the selected image is not transparent. It is recommended to choose a picture that is not captured by the camera.",
         "SCAN_QR_FROM_IMAGE_R3": "Please cancel photo editing if you want to scan the full image. (if applicable)",
-        "SEARCH": "Which content do you want to search for?",
-        "SEARCH_ENGINE_EXPLAIN": "Choose the search engine for doing web search after getting result.",
-        "SHARE_QR": "Just scan it!\n\nShared by Simple QR",
-        "SMS_MAX_LENGTH": "Max. 160 characters",
-        "SSID_MAX_LENGTH": "Max. 32 characters",
-        "START_PAGE_EXPLAIN": "Choose the initial page of the app.",
-        "START_PAGE_HEADER_EXPLAIN": "Show Simple QR header on the initial page.",
-        "TAG_MAX_LENGTH": "Max. 30 characters",
-        "TAG_MAX_LENGTH_EXPLAIN": "The length of the tag must not exceed 30 characters.",
-        "TUTORIAL_NOT_SHOW_AGAIN": "Do not show again",
-        "TUTORIAL_SWIPE_LEFT": "Swipe left to delete corresponding record.",
-        "TUTORIAL_SWIPE_RIGHT": "Swipe right to bookmark the text of corresponding record.",
-        "UNDO_DELETE": "You can undo the deletion",
-        "VIBRATION_EXPLAIN": "Provide vibration or haptic feedback. Please note that not all devices support this feature."
+        "SEARCH": "Nach welchen Inhalten möchtest du suchen?",
+        "SEARCH_ENGINE_EXPLAIN": "Wähle die Suchmaschine für die Websuche, nachdem du das Ergebnis erhalten hast.",
+        "SHARE_QR": "Einfach scannen!\n\nGeteilt von Simple QR",
+        "SMS_MAX_LENGTH": "Max. 160 Zeichen",
+        "SSID_MAX_LENGTH": "Max. 32 Zeichen",
+        "START_PAGE_EXPLAIN": "Wähle die Startseite der App.",
+        "START_PAGE_HEADER_EXPLAIN": "Einfache QR-Kopfzeile auf der Startseite anzeigen.",
+        "TAG_MAX_LENGTH": "Max. 30 Zeichen.",
+        "TAG_MAX_LENGTH_EXPLAIN": "Die Länge des Tags darf 30 Zeichen nicht überschreiten.",
+        "TUTORIAL_NOT_SHOW_AGAIN": "Nicht wieder zeigen",
+        "TUTORIAL_SWIPE_LEFT": "Wische nach links, um den entsprechenden Datensatz zu löschen.",
+        "TUTORIAL_SWIPE_RIGHT": "Wische nach rechts, um den Text des entsprechenden Datensatzes mit einem Lesezeichen zu versehen.",
+        "UNDO_DELETE": "Du kannst die Löschung rückgängig machen",
+        "VIBRATION_EXPLAIN": "Vibration oder haptisches Feedback geben. Bitte beachte, dass nicht alle Geräte diese Funktion unterstützen."
     },
     "BARCODE_TYPE": {
         "1D": "1D Barcode ",
@@ -272,7 +272,7 @@
         "UPC": "Universal Product Code "
     },
     "UPDATE": {
-        "UPDATE_NOTES_ANDROID": "<p>Simple QR is an open-source app. If you like and enjoy using it, please rate it on the store and support the developer.</p>",
-        "UPDATE_NOTES_IOS": "<p>Simple QR is an open-source app. If you like it and enjoy using it, please rate it on the store and support the developer.</p>"
+        "UPDATE_NOTES_ANDROID": "<p>Simple QR ist eine Open-Source-Anwendung. Wenn Du sie magst und gerne benutzt, bewerte sie bitte im Store und unterstütze den Programmierer.</p>",
+        "UPDATE_NOTES_IOS": "<p>Simple QR ist eine Open-Source-Anwendung. Wenn Dir die App gefällt und Du sie gerne benutzt, bewerte sie bitte im Store und unterstütze den Programmierer.</p>"
     }
 }
