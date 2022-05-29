@@ -1,0 +1,92 @@
+{
+  "tasks_page": {
+    "no_tasks": "Keine Aufgaben",
+    "new_task": "Neue Aufgabe",
+    "modify_task": "Aufgabe ändern",
+    "details": "Einzelheiten",
+    "datetime": "Datum und Uhrzeit"
+  },
+  "folders_page": {
+    "no_folders": "Keine Ordner",
+    "new_folder": "Neue Orner",
+    "modify_folder": "Ordner ändern",
+    "choose_color": "Wählen Sie die Farbe des Ordners",
+    "choose_icon": "Wählen Sie das Ordnersymbol",
+    "choose": "Wählen Sie",
+    "save_color": "Farbe speichern"
+  },
+  "update_check": {
+    "new_update_available": "Es ist ein neues Update verfügbar!",
+    "do_want_to_download": "Möchten Sie es herunterladen?",
+    "info": "Sie können die automatische Suche nach Updates auf der Einstellungsseite deaktivieren",
+    "sure": "Ja",
+    "no": "Nein, danke."
+  },
+  "settings_page": {
+    "settings_section": {
+      "title": "Einstellungen",
+      "language": "Sprache",
+      "hour_pattern": "Stundenformat",
+      "light_theme": "Thema Hell"
+    },
+    "danger_section": {
+      "title": "Vorsicht",
+      "delete_all": "Alle Daten löschen",
+      "are_you_sure": "Sind Sie sicher, dass Sie alle Daten löschen wollen?",
+      "cancel": "Abbrechen",
+      "delete": "Löschen"
+    },
+    "support_section": {
+      "title": "Unterstützung",
+      "about": "Über",
+      "share": {
+        "title": "Mit Freunden teilen",
+        "content": "Probieren Sie diese tolle ToDo-App aus!\nhttps://github.com/samuel-s-marques/todo-app"
+      },
+      "rate": "Bewerten Sie die App!",
+      "open_source": "Open-Source-Lizenz",
+      "loading": "Laden",
+      "terms": "Bedingungen und Bestimmungen",
+      "privacy": "Datenschutzbestimmungen"
+    },
+    "apps_section": {
+      "title": "Weitere Apps",
+      "weather_app": {
+        "description": "Intuitive, einfache und schöne Wetter-App."
+      }
+    }
+  },
+  "all_pages": {
+    "save": "Speichern",
+    "required_field": "Dieses Feld ist erforderlich",
+    "created_at": "Erstellt am {date}",
+    "updated_at": "Aktualisiert am {date}"
+  },
+  "language": {
+    "name": {
+      "en": "Englisch",
+      "pt": "Portugiesisch",
+      "es": "Spanisch",
+      "ar": "Arabisch",
+      "ja": "Japanisch",
+      "sv": "Schwedisch",
+      "fr": "Französisch",
+      "de": "Deutsch",
+      "ru": "Russisch"
+    },
+    "selection": {
+      "message": "Bitte wählen Sie eine Sprache aus der Liste",
+      "title": "Auswahl der Sprache"
+    },
+    "snackbar": {
+      "message": "Die App muss neu gestartet werden, um diese Änderungen zu übernehmen"
+    }
+  },
+  "notifications": {
+    "task_todo": "Hey! Es gibt noch offene Aufgaben!",
+    "yes": "Benachrichtigungen erlauben",
+    "allow_notification": "Benachrichtigungen zulassen?",
+    "do_want_notifications": "Diese App möchte Ihnen Benachrichtigungen senden",
+    "no":"Benachrichtigungen nicht erlauben"
+  }
+}
