@@ -78,13 +78,13 @@
   "updating_repository": "Repository aktualisieren",
   "touch_grass_message": "Jetzt ist ein guter Zeitpunkt, um über weiches Gras zu streichen",
   "add_repository": "Repository hinzufügen",
-  "add": "Add",
-  "save": "Save",
-  "enter_repository_name": "Please enter a repository name",
-  "enter_repository_url": "Please enter a repository URL",
-  "edit_repository": "Edit Repository",
-  "loading_apps": "Loading apps...",
-  "no_apps_in_category": "No apps found in {}",
-  "loading_categories": "Loading categories...",
-  "no_categories_found": "No categories found"
+  "add": "Hinzufügen",
+  "save": "Speichern",
+  "enter_repository_name": "Bitte den Namen des Repositorys eingeben",
+  "enter_repository_url": "Bitte gib eine Repository-URL ein",
+  "edit_repository": "Repository bearbeiten",
+  "loading_apps": "Apps laden...",
+  "no_apps_in_category": "Keine Apps gefunden in {}",
+  "loading_categories": "Lade Kategorien...",
+  "no_categories_found": "Keine Kategorien gefunden"
 }
